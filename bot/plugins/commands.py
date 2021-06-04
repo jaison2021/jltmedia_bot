@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    ' 🔰Join Channel🔰 ', url="https://t.me/joinchat/svwT6cU0Kr5jZTBl"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    ' 🔰Join Channel🔰 ', url="https://t.me/joinchat/svwT6cU0Kr5jZTBl"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    ' 🔰Join Channel🔰 ', url="https://t.me/joinchat/svwT6cU0Kr5jZTBl"
                                 )
                         ]
                     ]
